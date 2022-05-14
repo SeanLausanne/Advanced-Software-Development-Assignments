@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="csci5308_a1.CalculatorTest" tests="35" skipped="0" failures="0" errors="0" timestamp="2021-10-07T00:08:22" hostname="Hyewon.local" time="0.023">
+  <properties/>
+  <testcase name="checkDivideStringFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkMultiplyRevisedSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideRevisedZeroDivisor2" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideStringsZeroDivisor2" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkCalculatorExists" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractRevisedSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkAddStringSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkSubstractInts" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractStringSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkAddInts" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideStringSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkMultiplyStringSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkMultiplyRevised" classname="csci5308_a1.CalculatorTest" time="0.003"/>
+  <testcase name="checkAddStringFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkDivideIntsZeroDivisor" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideRevised" classname="csci5308_a1.CalculatorTest" time="0.003"/>
+  <testcase name="checkAddRevisedSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideString" classname="csci5308_a1.CalculatorTest" time="0.002"/>
+  <testcase name="checkAddRevised" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkMultiplyStrings" classname="csci5308_a1.CalculatorTest" time="0.002"/>
+  <testcase name="checkDivideStringsZeroDivisor" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractRevised" classname="csci5308_a1.CalculatorTest" time="0.002"/>
+  <testcase name="checkMultiplyStringFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkAddRevisedFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractRevisedFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractStringFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideRevisedFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideRevisedZeroDivisor" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkMultiplyRevisedFirstDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkSubtractString" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkMultiplyInts" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkAddString" classname="csci5308_a1.CalculatorTest" time="0.001"/>
+  <testcase name="checkDevideInts" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkFizzbuzz" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <testcase name="checkDivideRevisedSecondDecimal" classname="csci5308_a1.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="csci5308_a1.ValidationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-07T00:08:22" hostname="Hyewon.local" time="0.003">
+  <properties/>
+  <testcase name="checkValidationExists" classname="csci5308_a1.ValidationTest" time="0.001"/>
+  <testcase name="checkValidationSingleThreeDigitDecimal" classname="csci5308_a1.ValidationTest" time="0.001"/>
+  <testcase name="checkValidationTwoDigitDecimals" classname="csci5308_a1.ValidationTest" time="0.0"/>
+  <testcase name="checkValidationMultipleThreeDigitDecimals" classname="csci5308_a1.ValidationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
