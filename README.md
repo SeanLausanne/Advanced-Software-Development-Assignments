@@ -1,10 +1,10 @@
-# CSCI5308-Assignments
- 
-This is the repository for Assignments of CSCI5308 Advanced Software Development.
+# Advanced Software Development Assignments
+
+This is the repository for Assignments of CSCI5308 Advanced Software Development of Dalhousie University.
 
 ## Authors
 
-* Xiao Ling, B00877105, xz540782@dal.ca
+* Xiao Ling, B00877105, xsling28@gmail.com
 
 ## Assignment Information
 
